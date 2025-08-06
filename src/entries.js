@@ -1,45 +1,25 @@
+// {
+//   id: 1,
+//   type: "npc",
+//   name: "Arthur",
+//   img: "/entryImages/Arthur.PNG",
+// }
+// type[cast, npc, place, event]
 const entries = [
   {
     id: 1,
-    type: "npc",
-    name: "name",
+    type: "cast",
+    name: "Lucas Stillwater",
+    text: "Trained in Boston, Lucas is Ma and Pa's pride Lucas is Ma and Pa's pride Lucas is Ma and Pa's pride Lucas is Ma and Pa's prideand joy--'we got a real doctor in the family now!'",
     img: "/entryImages/Arthur.PNG",
-    text: "This is an NPC This is an NPC This is an NPC This is an NPC This is an NPC This is an NPC This is an NPC This is an NPC This is an NPC",
   },
   {
     id: 2,
-    type: "npc",
-    name: "name",
-    img: "/entryImages.Arthur.PNG",
-    text: "THis is the second NPC",
-  },
-  {
-    id: 3,
-    type: "place",
-    name: "name",
-    img: "/entryImages.Arthur.PNG",
-    text: "This is the first place",
-  },
-  {
-    id: 4,
-    type: "place",
-    name: "name",
-    img: "/entryImages.Arthur.PNG",
-    text: "This is the second place",
-  },
-  {
-    id: 5,
     type: "cast",
-    name: "name",
-    img: "/entryImages.Arthur.PNG",
-    text: "This is the first cast member",
-  },
-  {
-    id: 6,
-    type: "cast",
-    name: "name",
-    img: "/entryImages.Arthur.PNG",
-    text: "This is the second cast member",
+    name: "Anastasia Stillwater",
+    text: `Youngest of the Stillwater clan. Great shot with a rifle. Off to see the world with her trusty dog Loki.
+    \n -- Stormborn is what they call her as she was born during the greatest storm ever.
+    \n -- She likes salsa.`,
   },
 ];
 

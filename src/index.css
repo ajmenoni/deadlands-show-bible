@@ -31,20 +31,17 @@ img {
   height: 120px;
 }
 
-/* Mobile-first default styles (for small screens) */
 body {
   font-size: 16px;
   margin: 0;
   display: flex;
   flex-direction: column;
-  /* place-items: center; */
   min-width: 320px;
   min-height: 100vh;
-  height: 100vh; /* Needed to contain .container */
+  height: 100vh;
   overflow: hidden;
 }
 
-/* Then add media queries for larger screens */
 @media (min-width: 768px) {
   body {
     font-size: 18px;
@@ -135,7 +132,7 @@ button:focus-visible {
   flex-direction: column;
   gap: 1rem;
   max-height: calc(100vh - 120px);
-  overflow-y: auto; /* Scroll when needed */
+  overflow-y: auto;
   padding-bottom: 12rem;
 }
 
@@ -149,10 +146,17 @@ button:focus-visible {
 
 .content {
   margin-right: 1rem;
+  flex-grow: 1;
+}
+
+.content p {
+  white-space: pre-line;
+  margin-top: 0;
+  margin-bottom: 0.2em;
 }
 
 .entry-image {
-  margin-left: auto;
+  flex-shrink: 0;
 }
 
 /* @media (prefers-color-scheme: light) {
