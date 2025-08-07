@@ -98,7 +98,7 @@ const entries = [
     id: 12,
     type: "place",
     name: `Stillwater Ranch (Montana Territory)`,
-    img: "/entryImages/StillwaterRanch.png",
+    img: "./entryImages/StillwaterRanch.png",
     text: `Home of the Stillwater children—all but Ulysses born and raised here.
 \n${bullet} Rolling land of wildflowers and tall grass with a ranch house atop a low rise.
 \n${bullet} Overlooks a shallow river and open grazing fields.
@@ -108,7 +108,7 @@ const entries = [
     id: 13,
     type: "place",
     name: `Hope Spring, Montana`,
-    img: "/entryImages/HopeSpring.png",
+    img: "./entryImages/HopeSpring.png",
     text: `Mining town that grew from a tiny settlement in the 1860s to a thriving town by 1880.
 \n${bullet} Grew thanks in part to Stillwater cattle.
 \n${bullet} Features include a new train station, town clock, and automaton for civic use.
@@ -118,7 +118,7 @@ const entries = [
     id: 14,
     type: "place",
     name: `Helena, Montana`,
-    img: "/entryImages/HelenaMontana.png",
+    img: "./entryImages/HelenaMontana.png",
     text: `Frontier boomtown with strong mining, wealthy new residents, and refined nightlife.
 \n${bullet} Notable locations include an upscale saloon and public theater.
 \n${bullet} A vampire named Sarah Wigams (a feral nosferatu) lairs somewhere in town.
