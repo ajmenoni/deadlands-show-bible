@@ -118,7 +118,7 @@ const entries = [
     id: 14,
     type: "place",
     name: `Helena, Montana`,
-    img: "/entryImages/HelenaMontana.png",
+    img: "/deadlands-show-bible/entryImages/HelenaMontana.png",
     text: `Frontier boomtown with strong mining, wealthy new residents, and refined nightlife.
 \n${bullet} Notable locations include an upscale saloon and public theater.
 \n${bullet} A vampire named Sarah Wigams (a feral nosferatu) lairs somewhere in town.
