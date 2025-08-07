@@ -27,6 +27,7 @@ function Entry({ title, content, image, type }) {
               marginTop: "0.25rem",
               outline: "none",
               outlineOffset: "2px",
+              marginLeft: image ? "120px" : "0",
             }}
           >
             {expanded ? "Show Less" : "Show More"}
