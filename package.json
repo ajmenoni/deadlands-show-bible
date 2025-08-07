@@ -6,8 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "copy-docs": "cp -r dist/* docs/",
-    "build:docs": "npm run build && npm run copy-docs",
+    "clean-docs": "rmdir /S /Q docs",
+    "copy-docs": "xcopy dist\\* docs /E /I /Y",
+    "build:docs": "npm run build && npm run clean-docs && npm run copy-docs",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",

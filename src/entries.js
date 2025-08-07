@@ -98,7 +98,7 @@ const entries = [
     id: 12,
     type: "place",
     name: `Stillwater Ranch (Montana Territory)`,
-    img: "/entryImages/StillwaterRanch.png",
+    img: "/deadlands-show-bible/entryImages/StillwaterRanch.png",
     text: `Home of the Stillwater children—all but Ulysses born and raised here.
 \n${bullet} Rolling land of wildflowers and tall grass with a ranch house atop a low rise.
 \n${bullet} Overlooks a shallow river and open grazing fields.
@@ -108,7 +108,7 @@ const entries = [
     id: 13,
     type: "place",
     name: `Hope Spring, Montana`,
-    img: "/entryImages/HopeSpring.png",
+    img: "/deadlands-show-bible/entryImages/HopeSpring.png",
     text: `Mining town that grew from a tiny settlement in the 1860s to a thriving town by 1880.
 \n${bullet} Grew thanks in part to Stillwater cattle.
 \n${bullet} Features include a new train station, town clock, and automaton for civic use.

@@ -87,13 +87,13 @@ ${P} Known for his braying laugh, filth, and lack of charm.
 
 ${P} Follows Jonny around constantly.
 
-${P} Helped set fire to the Stillwater ranch in Hope Spring.`},{id:12,type:"place",name:"Stillwater Ranch (Montana Territory)",img:"/entryImages/StillwaterRanch.png",text:`Home of the Stillwater children—all but Ulysses born and raised here.
+${P} Helped set fire to the Stillwater ranch in Hope Spring.`},{id:12,type:"place",name:"Stillwater Ranch (Montana Territory)",img:"/deadlands-show-bible/entryImages/StillwaterRanch.png",text:`Home of the Stillwater children—all but Ulysses born and raised here.
 
 ${P} Rolling land of wildflowers and tall grass with a ranch house atop a low rise.
 
 ${P} Overlooks a shallow river and open grazing fields.
 
-${P} Final resting place of Ma and Pa Stillwater, buried 'neath a fragrant apple tree.`},{id:13,type:"place",name:"Hope Spring, Montana",img:"/entryImages/HopeSpring.png",text:`Mining town that grew from a tiny settlement in the 1860s to a thriving town by 1880.
+${P} Final resting place of Ma and Pa Stillwater, buried 'neath a fragrant apple tree.`},{id:13,type:"place",name:"Hope Spring, Montana",img:"/deadlands-show-bible/entryImages/HopeSpring.png",text:`Mining town that grew from a tiny settlement in the 1860s to a thriving town by 1880.
 
 ${P} Grew thanks in part to Stillwater cattle.
 
