@@ -80,10 +80,7 @@ h1 {
 
 h3 {
   margin: 0;
-}
-
-p {
-  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 button {
@@ -113,10 +110,8 @@ button:focus-visible {
 }
 
 .tab {
-  width: 100px;
-  margin-bottom: 0.5rem;
+  width: 120px;
   border-radius: 12px;
-  color: var(--secondary-font-color);
 }
 
 .tab:hover {
